@@ -1,0 +1,5 @@
+word2vec_model.model
+vocabulary.npy
+processed_data.csv
+tfidf_matrix.csv
+label_encoder_classes.npy
